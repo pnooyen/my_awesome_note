@@ -6,6 +6,7 @@
 - OpenAI-Cookbook: https://github.com/openai/openai-cookbook
 - chatgpt-retrieval-plugin: https://github.com/openai/chatgpt-retrieval-plugin
 - ai-notes: https://github.com/swyxio/ai-notes
+- gpt-code-ui: https://github.com/ricklamers/gpt-code-ui
 - gpt-code-interpreter: https://github.com/Clad3815/gpt-code-interpreter
 - codeinterpreter-ap: https://github.com/shroominic/codeinterpreter-api
 - scrape-ai: https://github.com/tomviner/scrape-ai
