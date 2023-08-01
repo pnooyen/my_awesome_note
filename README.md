@@ -51,3 +51,7 @@
 
 ## Non
 - hyperaudio-lite-editor: https://github.com/hyperaudio/hyperaudio-lite-editor
+
+## Need to learn
+- jupyter-client
+- nbformat
