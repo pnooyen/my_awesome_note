@@ -38,6 +38,9 @@
 ## Software Engineer
 - Production-Ready Channal: https://www.youtube.com/@WebDevCody
 
+## LMS
+- noodle: https://github.com/ixahmedxi/noodle
+
 
 ## SaaS
 - Email for developers: https://resend.com/
