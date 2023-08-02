@@ -11,6 +11,7 @@
 - codeinterpreter-ap: https://github.com/shroominic/codeinterpreter-api
 - scrape-ai: https://github.com/tomviner/scrape-ai
 - Openai-code-interpreter-packages: https://github.com/petergpt/code-interpreter-packages
+- GEPL: https://github.com/lmortimer/gepl
 - Auto Pilot Steps Lib: https://github.com/continuedev/continue/tree/main/continuedev/src/continuedev/plugins/steps
 - FauxPilot: https://github.com/fauxpilot/fauxpilot
 - News: https://codingwithintelligence.com/
@@ -31,6 +32,8 @@
 - vectara demo (Commercial): https://asknews.demo.vectara.com/
 - vectara sample ui: https://github.com/vectara/Search-UI
 
+## Pipeline
+- mage-ai: https://github.com/mage-ai/mage-ai
 
 ## Software Engineer
 - Production-Ready Channal: https://www.youtube.com/@WebDevCody
