@@ -22,7 +22,7 @@
 - Good to know: https://twitter.com/swyx/status/1678512823457165312
 - gpt-engineer: https://github.com/AntonOsika/gpt-engineer
 - SuperAGI: https://github.com/TransformerOptimus/SuperAGI
-- 
+- psychic: https://github.com/psychic-api/psychic
 - databerry: https://github.com/gmpetrov/databerry
 - quivr: https://github.com/StanGirard/quivr
 - markprompt: https://github.com/motifland/markprompt
@@ -33,6 +33,11 @@
 - vectara (Commercial): https://vectara.com/
 - vectara demo (Commercial): https://asknews.demo.vectara.com/
 - vectara sample ui: https://github.com/vectara/Search-UI
+- gorilla: https://github.com/ShishirPatil/gorilla
+- rysana: https://rysana.com/
+
+## ?
+- fief: https://github.com/fief-dev/fief
 
 ## Pipeline
 - mage-ai: https://github.com/mage-ai/mage-ai
@@ -43,6 +48,17 @@
 ## LMS
 - noodle: https://github.com/ixahmedxi/noodle
 
+## Monitor
+- openstatus: https://github.com/openstatusHQ/openstatus
+- uptime-kuma: https://github.com/louislam/uptime-kuma
+- posthog: https://posthog.com/
+
+## LowCode
+- appwrite: https://github.com/appwrite/appwrite
+- amplication: https://github.com/amplication/amplication
+- apitable: https://github.com/apitable/apitable
+- illa-builder: https://github.com/illacloud/illa-builder
+- ToolJet: https://github.com/ToolJet/ToolJet
 
 ## SaaS
 - Email for developers: https://resend.com/
