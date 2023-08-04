@@ -20,7 +20,9 @@
 - Web-Scraping Techniques to Source Reliable Information for ChatGPT.ipynb: https://colab.research.google.com/drive/1r5CPdxTOFeZVdHU8bmYvqQlB9B6tIH7l
 - dData_search_and_retrieval_and_evaluation.ipynb: https://colab.research.google.com/drive/1jHv7JrX1LRIGNl5nfxag87iq6HdsdZyQ
 - Good to know: https://twitter.com/swyx/status/1678512823457165312
-- gpt-engineer https://github.com/AntonOsika/gpt-engineer
+- gpt-engineer: https://github.com/AntonOsika/gpt-engineer
+- SuperAGI: https://github.com/TransformerOptimus/SuperAGI
+- 
 - databerry: https://github.com/gmpetrov/databerry
 - quivr: https://github.com/StanGirard/quivr
 - markprompt: https://github.com/motifland/markprompt
