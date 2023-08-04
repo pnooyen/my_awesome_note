@@ -35,9 +35,15 @@
 - vectara sample ui: https://github.com/vectara/Search-UI
 - gorilla: https://github.com/ShishirPatil/gorilla
 - rysana: https://rysana.com/
+- nextjs-openai-doc-search: https://github.com/supabase-community/nextjs-openai-doc-search + https://www.youtube.com/watch?v=Yhtjd7yGGGA
+- AgentGPT: https://github.com/reworkd/AgentGPT
+- rag-stack: https://github.com/psychic-api/rag-stack
 
 ## ?
 - fief: https://github.com/fief-dev/fief
+- The Privacy Engineering & Compliance Framework: https://github.com/ethyca/fides
+- https://turso.tech/
+- https://github.com/vercel/nextjs-subscription-payments
 
 ## Pipeline
 - mage-ai: https://github.com/mage-ai/mage-ai
