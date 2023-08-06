@@ -45,6 +45,9 @@
 - https://turso.tech/
 - https://github.com/vercel/nextjs-subscription-payments
 
+## Tools/Boilerplate
+- react-email: https://github.com/resendlabs/react-email
+
 ## Pipeline
 - mage-ai: https://github.com/mage-ai/mage-ai
 
