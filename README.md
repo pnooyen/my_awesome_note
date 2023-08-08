@@ -44,6 +44,12 @@
 - The Privacy Engineering & Compliance Framework: https://github.com/ethyca/fides
 - https://turso.tech/
 - https://github.com/vercel/nextjs-subscription-payments
+- https://github.com/public-apis/public-apis
+- https://github.com/NikhilNamal17/popular-movie-quotes
+- Local Code Interpreter: https://github.com/silvanmelchior/IncognitoPilot
+- https://github.com/Clad3815/gpt-code-interpreter
+- https://huggingface.co/openthaigpt/openthaigpt-1.0.0-alpha-7b-chat-ckpt-hf
+- 
 
 ## Tools/Boilerplate
 - react-email: https://github.com/resendlabs/react-email
