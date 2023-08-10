@@ -39,23 +39,13 @@
 - AgentGPT: https://github.com/reworkd/AgentGPT
 - rag-stack: https://github.com/psychic-api/rag-stack
 
-## ?
-- fief: https://github.com/fief-dev/fief
-- The Privacy Engineering & Compliance Framework: https://github.com/ethyca/fides
-- https://turso.tech/
-- https://github.com/vercel/nextjs-subscription-payments
-- https://github.com/public-apis/public-apis
-- https://github.com/NikhilNamal17/popular-movie-quotes
-- Local Code Interpreter: https://github.com/silvanmelchior/IncognitoPilot
-- https://github.com/Clad3815/gpt-code-interpreter
-- https://huggingface.co/openthaigpt/openthaigpt-1.0.0-alpha-7b-chat-ckpt-hf
-- 
-
 ## Tools/Boilerplate
 - react-email: https://github.com/resendlabs/react-email
+- nextra: https://nextra.site/
 
 ## Pipeline
 - mage-ai: https://github.com/mage-ai/mage-ai
+- unstructured: https://unstructured.io/
 
 ## Software Engineer
 - Production-Ready Channal: https://www.youtube.com/@WebDevCody
@@ -95,3 +85,26 @@
 ## Need to learn
 - jupyter-client
 - nbformat
+
+## ?
+- fief: https://github.com/fief-dev/fief
+- The Privacy Engineering & Compliance Framework: https://github.com/ethyca/fides
+- https://turso.tech/
+- https://github.com/vercel/nextjs-subscription-payments
+- https://github.com/public-apis/public-apis
+- https://github.com/NikhilNamal17/popular-movie-quotes
+- Local Code Interpreter: https://github.com/silvanmelchior/IncognitoPilot
+- https://github.com/Clad3815/gpt-code-interpreter
+- https://huggingface.co/openthaigpt/openthaigpt-1.0.0-alpha-7b-chat-ckpt-hf
+- https://github.com/18F/api.data.gov
+- https://maasglobal.github.io/maas-tsp-api/overview.html
+- https://github.com/zenstackhq/zenstack
+- https://www.saasplanet.org/
+- Data Marketplace: https://revelate.co/
+- Data Marketplace: https://datarade.ai/
+- https://github.com/subhamBharadwaz/scribbly
+- https://github.com/Alpha-VLLM/LLaMA2-Accessory
+- https://brightdata.com/products/datasets#business-information
+- https://pandoc.org/
+- https://livepeer.org/
+- 
