@@ -125,3 +125,4 @@
 - https://github.com/supabase/headless-vector-search
 - https://github.com/cube-js/cube
 - https://github.com/supabase/supabase/tree/master/studio/pages/api/ai/sql
+- https://www.zenlytic.com/
