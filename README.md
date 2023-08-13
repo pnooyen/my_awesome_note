@@ -111,6 +111,7 @@
 - https://www.windmill.dev/
 - https://trigger.dev/
 - https://github.com/logspace-ai/langflow
+- https://twitter.com/WianStipp/status/1686581954475675648?s=20
 - https://github.com/fadynakhla/dr-claude
 - https://python.langchain.com/docs/use_cases/summarization
 - https://arsentievalex-instant-insight-web-app-main-gz753r.streamlit.app/
