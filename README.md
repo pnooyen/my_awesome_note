@@ -124,3 +124,4 @@
 - https://github.com/public-api-lists/public-api-lists
 - https://github.com/supabase/headless-vector-search
 - https://github.com/cube-js/cube
+- https://github.com/supabase/supabase/tree/master/studio/pages/api/ai/sql
