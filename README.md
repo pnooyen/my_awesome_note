@@ -108,3 +108,19 @@
 - https://pandoc.org/
 - https://livepeer.org/
 - https://medium.com/better-programming/frameworks-for-serving-llms-60b7f7b23407
+- https://www.windmill.dev/
+- https://trigger.dev/
+- https://github.com/logspace-ai/langflow
+- https://github.com/fadynakhla/dr-claude
+- https://python.langchain.com/docs/use_cases/summarization
+- https://arsentievalex-instant-insight-web-app-main-gz753r.streamlit.app/
+- ans to pptx: https://github.com/arsentievalex/instant-insight-web-app
+- https://medium.com/@mr.tarik098/your-way-to-10000-month-how-to-create-cold-email-automation-using-langchain-and-streamlit-6adf31a35f09
+- https://medium.com/@mayaakim/build-your-automated-personalized-newsletter-with-langchain-for-beginners-c11e8e0a7a1d
+- https://github.com/dvlab-research/LISA
+- https://github.com/automatisch/automatisch
+- https://github.com/MarkEdmondson1234/edmonbrain
+- https://github.com/kaarthik108/snowChat
+- https://github.com/public-api-lists/public-api-lists
+- https://github.com/supabase/headless-vector-search
+- https://github.com/cube-js/cube
