@@ -1,5 +1,7 @@
 # my_awesome_note
 
+* [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
+
 ## LLMs
 - LLama2.c: https://github.com/karpathy/llama2.c
 - Prompt Engineering Guide: https://www.promptingguide.ai/
