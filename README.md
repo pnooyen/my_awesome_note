@@ -1,6 +1,8 @@
 # my_awesome_note
 
-* [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
+* [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) -
+*[] (https://textract.readthedocs.io/en/stable/) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://textract.readthedocs.io/en/stable/)
+* Open source no-code business automation, alternative to Zapier
 
 ## LLMs
 - LLama2.c: https://github.com/karpathy/llama2.c
@@ -127,5 +129,13 @@
 - https://github.com/public-api-lists/public-api-lists
 - https://github.com/supabase/headless-vector-search
 - https://github.com/cube-js/cube
+- https://dev.to/singee/deploy-windmill-on-flyio-3ii3
+- https://github.com/firecracker-microvm/firecracker
 - https://github.com/supabase/supabase/tree/master/studio/pages/api/ai/sql
 - https://www.zenlytic.com/
+- https://www.youtube.com/watch?v=5NgNicANyqM
+- https://react-tailwindcss-datepicker.vercel.app/demo#demo
+- https://github.com/trentwiles/ElasticScraper
+- https://github.com/appbaseio/dejavu
+- https://github.com/typesense/typesense
+- https://www.aiwhispr.com/post/document-retrieval-with-semantic-search-introducing-aiwhispr
