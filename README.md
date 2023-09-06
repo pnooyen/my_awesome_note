@@ -1,11 +1,57 @@
 # my_awesome_note
 
-* [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) -
+
+## Search
+* [manticoresearch](https://github.com/manticoresoftware/manticoresearch) [![Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch.svg)](https://github.com/manticoresoftware/manticoresearch)
+* [orama](https://github.com/oramasearch/orama) [![Stars](https://img.shields.io/github/stars/oramasearch/orama.svg)](https://github.com/oramasearch/orama)
+* 
+
+## BI
+* [lightdash](https://github.com/lightdash/lightdash) [![Stars](https://img.shields.io/github/stars/lightdash/lightdash.svg)](https://github.com/lightdash/lightdash)
+* [evidence](https://github.com/evidence-dev/evidence) [![Stars](https://img.shields.io/github/stars/evidence-dev/evidence.svg)](https://github.com/evidence-dev/evidence)
+* [cube](https://github.com/cube-js/cube) [![Stars](https://img.shields.io/github/stars/cube-js/cube.svg)](https://github.com/cube-js/cube)
+* https://superset.apache.org/
+
+
+* [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces)
 *[] (https://textract.readthedocs.io/en/stable/) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://textract.readthedocs.io/en/stable/)
 * Open source no-code business automation, alternative to Zapier
+* https://www.zenlytic.com/
+* https://www.seek.ai/
+* https://www.textql.com/dbt
+* https://www.askviable.com/
+* https://www.delphihq.com/
+* https://www.vizly.fyi/
+* https://github.com/plausible/analytics
+* https://github.com/umami-software/umami
+
+## DB
+- https://duckdb.org/
+  
+## BI
+- https://www.rilldata.com/
+- https://github.com/rilldata/rill-examples/
+- https://evidence.dev/
+- https://evidence.dev/examples
+- 
+- https://github.com/voberoi/buzzfeed-news-trending
+- https://github.com/jsvine/buzzfeed-news-trending-strip
+- https://github.com/hooopo/oh-my-github-dashboard
+- 
+- https://www.youtube.com/watch?v=JHCDgRbWWq0&t=9s
+- https://github.com/dagster-io/mdsfest-opensource-mds
+- https://feederwatch.org/explore/raw-dataset-requests/
+- 
+- https://github.com/DIYgod/RSSHub
+- 
+- https://github.com/ethanguo770/charts-generator-chatgpt-plugin
+- https://github.com/whoiskatrin/chart-gpt
+- https://www.delphihq.com/
+- https://www.usechannel.com/
 
 ## LLMs
 - LLama2.c: https://github.com/karpathy/llama2.c
+- https://github.com/guidance-ai/guidance
 - Prompt Engineering Guide: https://www.promptingguide.ai/
 - OpenAI-Cookbook: https://github.com/openai/openai-cookbook
 - chatgpt-retrieval-plugin: https://github.com/openai/chatgpt-retrieval-plugin
@@ -128,7 +174,6 @@
 - https://github.com/kaarthik108/snowChat
 - https://github.com/public-api-lists/public-api-lists
 - https://github.com/supabase/headless-vector-search
-- https://github.com/cube-js/cube
 - https://dev.to/singee/deploy-windmill-on-flyio-3ii3
 - https://github.com/firecracker-microvm/firecracker
 - https://github.com/supabase/supabase/tree/master/studio/pages/api/ai/sql
@@ -137,5 +182,20 @@
 - https://react-tailwindcss-datepicker.vercel.app/demo#demo
 - https://github.com/trentwiles/ElasticScraper
 - https://github.com/appbaseio/dejavu
+- https://github.com/ionic-team/capacitor
+- https://rnacentral.org/help/public-database
+- https://copilotwksp.com/
 - https://github.com/typesense/typesense
 - https://www.aiwhispr.com/post/document-retrieval-with-semantic-search-introducing-aiwhispr
+- https://github.com/yuj18/semantic-kernel-example
+- https://abacus.ai/
+- https://devblogs.microsoft.com/semantic-kernel/use-natural-language-to-execute-sql-queries/
+- 
+- https://github.com/openai/dallify-discord-bot
+- https://github.com/haelstrom91/semantic-layer-interpreter
+- https://github.com/Kav-K/GPTDiscord
+- https://github.com/chatgpt/chart
+- https://docs.google.com/presentation/d/18he97z5S-Et6Cdftn89MTeIwE186oWEg/edit#slide=id.p37
+- https://carlineng.com/?postid=malloy-tpcds#blog
+- https://benn.substack.com/p/ghosts-in-the-data-stack
+- https://github.com/transitive-bullshit/bens-bites-ai-search
