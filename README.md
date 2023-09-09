@@ -199,3 +199,10 @@
 - https://carlineng.com/?postid=malloy-tpcds#blog
 - https://benn.substack.com/p/ghosts-in-the-data-stack
 - https://github.com/transitive-bullshit/bens-bites-ai-search
+- https://github.com/paralect/ship
+- https://github.com/duckdb/duckdb
+- https://github.com/eosphoros-ai/DB-GPT
+- https://github.com/makeplane/plane
+- https://novel.sh/
+- https://github.com/srbhr/Resume-Matcher
+- https://www.storytellingwithdata.com/chart-guide
