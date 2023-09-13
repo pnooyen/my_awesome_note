@@ -190,7 +190,7 @@
 - https://github.com/yuj18/semantic-kernel-example
 - https://abacus.ai/
 - https://devblogs.microsoft.com/semantic-kernel/use-natural-language-to-execute-sql-queries/
-- 
+- https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/openai/dallify-discord-bot
 - https://github.com/haelstrom91/semantic-layer-interpreter
 - https://github.com/Kav-K/GPTDiscord
@@ -206,3 +206,29 @@
 - https://novel.sh/
 - https://github.com/srbhr/Resume-Matcher
 - https://www.storytellingwithdata.com/chart-guide
+- https://github.com/libsql/libsql
+- https://www.prefect.io/
+- https://github.com/matheins/dorf
+- https://github.com/couchforms/couchforms
+- https://github.com/steven-tey/dub
+- https://github.com/timlrx/tailwind-nextjs-starter-blog
+- https://github.com/timlrx/timlrx.com
+- https://github.com/Snazzah/stub
+- https://generate-secret.vercel.app/32
+- https://github.com/NextJSTemplates/startup-nextjs
+- https://github.com/RunaCapital/awesome-oss-alternatives
+- https://github.com/jkytoela/next-startd
+- https://github.com/pankod/superplate
+- https://www.markdx.site/
+- 
+
+# DBT
+- https://github.com/astronomer/astronomer-cosmos
+- https://github.com/calogica/dbt-expectations
+
+# Curation
+- https://github.com/DIYgod/RSSHub
+- https://github.com/codelucas/newspaper
+- https://github.com/tschellenbach/Stream-Framework
+- https://github.com/fhamborg/news-please
+- 
