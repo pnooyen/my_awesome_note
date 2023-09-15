@@ -220,7 +220,14 @@
 - https://github.com/jkytoela/next-startd
 - https://github.com/pankod/superplate
 - https://www.markdx.site/
-- 
+- https://twitter.com/arthurliebhardt/status/1688846748578414592
+- https://mixpanel.com/home
+- https://github.com/documenso/documenso
+- https://github.com/LearnDataSci/articles
+- https://github.com/CyberPunkMetalHead/seo-gpt
+- https://github.com/beshavardmh/GPT-Summarizer
+- https://github.com/easonlai/google_news_content_scrape_and_analyze_with_gpt
+- https://github.com/yoheinakajima/instagraph
 
 # DBT
 - https://github.com/astronomer/astronomer-cosmos
