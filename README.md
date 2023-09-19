@@ -228,6 +228,9 @@
 - https://github.com/beshavardmh/GPT-Summarizer
 - https://github.com/easonlai/google_news_content_scrape_and_analyze_with_gpt
 - https://github.com/yoheinakajima/instagraph
+- https://auto-graph.streamlit.app/
+- https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/
+- https://github.com/tomhartke/knowledge-graph-from-GPT
 
 # DBT
 - https://github.com/astronomer/astronomer-cosmos
@@ -238,4 +241,22 @@
 - https://github.com/codelucas/newspaper
 - https://github.com/tschellenbach/Stream-Framework
 - https://github.com/fhamborg/news-please
-- 
+- https://mcd.feedspot.com/media-contact-database/getting-started
+- https://www.feedspot.com/fs/video_tutorials?_src=topnav_dropdown
+- https://github.com/rumca-js/RSS-Link-Database-2023
+- https://github.com/rumca-js/RSS-Link-Database-2023/blob/master/2023/09/2023-09-01/http.feeds.abcnews.comabcnewstopstories_entries.md
+- https://justdataplease.com/medium-sky/
+- https://github.com/penrodlol/feedjoy
+- https://github.com/tanchongmin/TensorFlow-Implementations/blob/main/Tutorial/LLM%20with%20Knowledge%20Graphs.ipynb
+- https://github.com/tanchongmin/TensorFlow-Implementations/blob/main/Paper_Reviews/LLM%20with%20Knowledge%20Graphs.pdf
+- https://www.youtube.com/playlist?list=PLDhh0lALedc5paY4N3NRZ3j_ui9foL7Qc
+- https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-0%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D.pdf
+- https://justdataplease.com/medium-sky/
+- https://github.com/LarsVogt/Knowledge-Graph-Building-Blocks
+- https://www.sigmajs.org/demo/index.html
+- https://github.com/KnowledgeCanvas/knowledge
+- https://github.com/rumca-js/RSS-Link-Database-2023/blob/master/2023/09/2023-09-01/http.feeds.abcnews.comabcnewstopstories_entries.md
+- https://christitus.com/why-we-dont-browse-the-internet-anymore/
+- https://research.aimultiple.com/
+- https://marketbrew.ai/
+- https://towardsdatascience.com/how-to-use-chat-gpt-and-python-to-build-a-knowledge-graph-in-neo4j-based-on-your-own-articles-c622bc4e2eaa
