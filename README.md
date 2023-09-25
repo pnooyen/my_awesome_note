@@ -1,6 +1,8 @@
 # my_awesome_note
 
 ## Feeds
+* [https://github.com/abereghici/web-feed](https://github.com/abereghici/web-feed) About A curated list of blogs and resources for web developers, delivered through RSS, to effortlessly stay up to date with the latest trends, insights, and best practices.
+* 
 ### Refs
 * [feeder.co](https://feeder.co/) Your favorite content. All in one place 
 * [feedly.com](https://feedly.com/) Track insights across the web without having to read everything 
