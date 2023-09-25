@@ -2,11 +2,11 @@
 
 ## Feeds
 ### Refs
-* Your favorite content. All in one place [feeder.co](https://feeder.co/)
-* Track insights across the web without having to read everything [feedly.com](https://feedly.com/)
-* GET INFORMED GET INSPIRED - Stories Curated For You [flipboard.com](https://flipboard.com/)
-* Source of RSS Feeds Connect with Information You Care About Get RSS Feeds from almost any webpage [rss.app](https://rss.app/)
-* The easiest way to start, grow, track and monetize a podcast. [rss.com](https://rss.com/)
+* [feeder.co](https://feeder.co/) Your favorite content. All in one place 
+* [feedly.com](https://feedly.com/) Track insights across the web without having to read everything 
+* [flipboard.com](https://flipboard.com/) GET INFORMED GET INSPIRED - Stories Curated For You 
+* [rss.app](https://rss.app/) Source of RSS Feeds Connect with Information You Care About Get RSS Feeds from almost any webpage
+* [rss.com](https://rss.com/) The easiest way to start, grow, track and monetize a podcast. 
 ## Search
 * [orama](https://github.com/oramasearch/orama) [![Stars](https://img.shields.io/github/stars/oramasearch/orama.svg)](https://github.com/oramasearch/orama)
 * [manticoresearch](https://github.com/manticoresoftware/manticoresearch) [![Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch.svg)](https://github.com/manticoresoftware/manticoresearch)
