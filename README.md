@@ -1,13 +1,16 @@
 # my_awesome_note
 
-
+## Feeds
+### Refs
+* Your favorite content. All in one place [feeder.co](https://feeder.co/)
+* Track insights across the web without having to read everything [feedly.com](https://feedly.com/)
+* GET INFORMED GET INSPIRED - Stories Curated For You [flipboard.com](https://flipboard.com/)
+* Source of RSS Feeds Connect with Information You Care About Get RSS Feeds from almost any webpage [rss.app](https://rss.app/)
+* The easiest way to start, grow, track and monetize a podcast. [rss.com](https://rss.com/)
 ## Search
-* [manticoresearch](https://github.com/manticoresoftware/manticoresearch) [![Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch.svg)](https://github.com/manticoresoftware/manticoresearch)
 * [orama](https://github.com/oramasearch/orama) [![Stars](https://img.shields.io/github/stars/oramasearch/orama.svg)](https://github.com/oramasearch/orama)
-* 
-
-## BI
-* [lightdash](https://github.com/lightdash/lightdash) [![Stars](https://img.shields.io/github/stars/lightdash/lightdash.svg)](https://github.com/lightdash/lightdash)
+* [manticoresearch](https://github.com/manticoresoftware/manticoresearch) [![Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch.svg)](https://github.com/manticoresoftware/manticoresearch)
+*ash](https://github.com/lightdash/lightdash) [![Stars](https://img.shields.io/github/stars/lightdash/lightdash.svg)](https://github.com/lightdash/lightdash)
 * [evidence](https://github.com/evidence-dev/evidence) [![Stars](https://img.shields.io/github/stars/evidence-dev/evidence.svg)](https://github.com/evidence-dev/evidence)
 * [cube](https://github.com/cube-js/cube) [![Stars](https://img.shields.io/github/stars/cube-js/cube.svg)](https://github.com/cube-js/cube)
 * https://superset.apache.org/
