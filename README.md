@@ -13,7 +13,9 @@
 * [feedbin.com](https://feedbin.com/) A nice place to read on the web. Follow your passions with RSS, email newsletters, podcasts, and YouTube.
 * [golden.com](https://golden.com/home) Building the world’s knowledge engine We are automating the construction of the largest open knowledge graph of entities and topics.
 * [https://getstream.io/](https://getstream.io/) Build In-App Chat, Video & Audio, and Feeds, Faster.
-* 
+## Tools
+* [sigma.js](https://github.com/jacomyal/sigma.js) A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
+
 * 
 ## Search
 * [orama](https://github.com/oramasearch/orama) [![Stars](https://img.shields.io/github/stars/oramasearch/orama.svg)](https://github.com/oramasearch/orama)
