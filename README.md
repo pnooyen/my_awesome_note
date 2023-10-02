@@ -13,10 +13,32 @@
 * [feedbin.com](https://feedbin.com/) A nice place to read on the web. Follow your passions with RSS, email newsletters, podcasts, and YouTube.
 * [golden.com](https://golden.com/home) Building the world’s knowledge engine We are automating the construction of the largest open knowledge graph of entities and topics.
 * [https://getstream.io/](https://getstream.io/) Build In-App Chat, Video & Audio, and Feeds, Faster.
+* [https://newsletterspy.io/](https://newsletterspy.io/) Gain valuable insights into the performance of over 100,000 newsletters. Study the critical trends, discover sponsorship opportunities, and find acquisition targets.
+* [NPL_Clustering_LDA](https://github.com/Junoflows/NPL_Clustering_LDA) ?
+* [news-graph](https://github.com/johnymontana/news-graph) New York Times articles as a knowledge graph
+* [BBC-Knowledge-Graph](https://github.com/johnlbellamy/BBC-Knowledge-Graph) Exploration of buildng a question-answering knowledge graph based on BBC news articles. Aim is to answer questions like: "Where does Rick Wagoner work?"
+* 
 ## Tools
 * [sigma.js](https://github.com/jacomyal/sigma.js) A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
-
+* [G6](https://github.com/antvis/G6) A Graph Visualization Framework in JavaScript
+* [polarlib](https://github.com/dpasch01/polarlib) Code repository for POLAR, a framework for the modelling of polarization and identification of polarizing topics in news articles. POLAR utilizes a variety of computational method to model polarization, including NLP, Graphs, and Clustering. It produces hierarchical knowledge of polarization for a given dataset of news articles.
+* [upptime](https://github.com/upptime/upptime) Free uptime monitor and status page powered by GitHub
 * 
+
+## Articles
+* [what-is-a-knowledge-graph-pokemon-edition](https://dev.to/heypieter/what-is-a-knowledge-graph-pokemon-edition-42hn)
+* [Storylines as data in BBC News](https://medium.com/@jeremytarling/storylines-as-data-in-bbc-news-bd92c25cba6b)
+* [understanding-knowledge-graphs](https://bluebrainnexus.io/docs/getting-started/understanding-knowledge-graphs.html)
+* 
+
+## Research
+* [SSLE: A framework for evaluating the “Filter Bubble” effect on the news aggregator and recommenders](https://link.springer.com/article/10.1007/s11280-022-01031-4) 
+* [What is Event Knowledge Graph: A Survey](https://arxiv.org/pdf/2112.15280.pdf)
+* [EventKG+TL: Creating Cross-Lingual Timelines from an Event-Centric Knowledge Graph](https://link.springer.com/chapter/10.1007/978-3-319-98192-5_31#Sec4)
+* [EventKG+TL](https://eventkg.l3s.uni-hannover.de/eventkg_tl)
+* [Building event-centric knowledge graphs from news](https://www.sciencedirect.com/science/article/abs/pii/S1570826815001456)
+
+
 ## Search
 * [orama](https://github.com/oramasearch/orama) [![Stars](https://img.shields.io/github/stars/oramasearch/orama.svg)](https://github.com/oramasearch/orama)
 * [manticoresearch](https://github.com/manticoresoftware/manticoresearch) [![Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch.svg)](https://github.com/manticoresoftware/manticoresearch)
