@@ -23,7 +23,7 @@
 * [G6](https://github.com/antvis/G6) A Graph Visualization Framework in JavaScript
 * [polarlib](https://github.com/dpasch01/polarlib) Code repository for POLAR, a framework for the modelling of polarization and identification of polarizing topics in news articles. POLAR utilizes a variety of computational method to model polarization, including NLP, Graphs, and Clustering. It produces hierarchical knowledge of polarization for a given dataset of news articles.
 * [upptime](https://github.com/upptime/upptime) Free uptime monitor and status page powered by GitHub
-* 
+* [openstatus](https://github.com/openstatusHQ/openstatus) The open-source monitoring platform
 
 ## Articles
 * [what-is-a-knowledge-graph-pokemon-edition](https://dev.to/heypieter/what-is-a-knowledge-graph-pokemon-edition-42hn)
@@ -47,6 +47,9 @@
 * [cube](https://github.com/cube-js/cube) [![Stars](https://img.shields.io/github/stars/cube-js/cube.svg)](https://github.com/cube-js/cube)
 * https://superset.apache.org/
 
+## Boilerplate
+* [headshots-starter](https://github.com/leap-ai/headshots-starter)
+* [quill](https://github.com/joschan21/quill)
 
 * [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces)
 *[] (https://textract.readthedocs.io/en/stable/) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://textract.readthedocs.io/en/stable/)
